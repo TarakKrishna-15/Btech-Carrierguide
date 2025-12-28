@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BTech Guide - AI Career Mentor",
+  "description": "A comprehensive AI-powered career mentorship platform designed for engineering students in India, offering personalized roadmaps, interview coaching, and resume analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
